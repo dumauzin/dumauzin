@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 Atualmente sou desenvolvedor back-end 」
+    「 Desenvolvedor back-end 」
     <br>
     <br>
   </samp>
@@ -37,9 +37,9 @@
  ## Sobre mim
  
 <p>
- ◼️ &emsp; Desenvolvedor back-end na <a href="https://github.com/dacom-cm" target="_blank">Haken - Empresa Júnior</a><br/><br/>
- ◻️ &emsp; Graduando em Ciência da Computação pela UTFPR<br/><br/>
- ◼️ &emsp; Técnico em Informática no IFPR<br/><br/>
+ ◻️ &emsp; Estagiário em Desenvolvimento de Sistema de TI na <a href="https://www.coamo.com.br/" target="_blank">Coamo Agroindustrial Cooperativa</a>.<br/><br/>
+ ◻️ &emsp; Graduando em Ciência da Computação pela <a href="https://www.utfpr.edu.br/campus/campomourao/" target="_blank">UTFPR</a>.<br/><br/>
+ ◼️ &emsp; Técnico em Informática pelo <a href="https://ifpr.edu.br/goioere/" target="_blank">IFPR</a>.<br/><br/>
 </p>
 
 <br />
